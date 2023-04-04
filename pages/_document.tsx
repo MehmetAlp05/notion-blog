@@ -9,12 +9,12 @@ export default class MyDocument extends Document {
       <IconContext.Provider value={{ style: { verticalAlign: 'middle' } }}>
         <Html lang='en'>
           <Head>
-            <link rel='shortcut icon' href='/favicon.svg' />
+            <link rel='shortcut icon' href='https://raw.githubusercontent.com/MehmetAlp05/notion-blog/main/public/favicon.svg' />
             <link
               rel='icon'
               type='image/png'
               sizes='32x32'
-              href='favicon.svg'
+              href='https://raw.githubusercontent.com/MehmetAlp05/notion-blog/main/public/favicon.svg'
             />
 
             <link rel='manifest' href='/manifest.json' />
